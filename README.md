@@ -1,6 +1,6 @@
 # eZ Platform
 
-This project uses eZ Platform v2.3.2 to build a Portfolio website intended for a Motion Designer Portfolio.
+This project uses eZ Platform v2.3.2 to build a Portfolio website intended for a Motion Designer.
 
 ## What is eZ Platform ?
 *eZ Platform* is a 100% open source professional CMS (Content Management System) developed by eZ Systems and the eZ Community.
